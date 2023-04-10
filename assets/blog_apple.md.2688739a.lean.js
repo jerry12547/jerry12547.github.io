@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,x as o}from"./chunks/framework.0799945b.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/apple.md"}'),s={name:"blog/apple.md"},n=o("p",null,"这是一个苹果",-1),r=[n];function c(p,l,_,d,i,m){return a(),t("div",null,r)}const h=e(s,[["render",c]]);export{u as __pageData,h as default};
